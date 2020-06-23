@@ -1,0 +1,7 @@
+1.Tentukan dan simpan data dalam suatu array
+2.Tentukan fungsi pencarian sekuensial
+4.Masukkan data yang akan dicari
+5.Kerjakan langkah 3, jika data ketemu kerjakan lang kah 6. Jika data tidak
+ketemu lakukan langkah 6
+6.Cetak data tersebut
+7.Selesai

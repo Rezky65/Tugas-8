@@ -1,0 +1,8 @@
+1.Pertama diambil posisi awal 1 dan posisi akhir N, kemudian dicari
+posisi data tengah dengan rumus posisi awal+posisi akhir 2
+2.Kemudian data yang dicari dibandingkan dengan data tengah
+3.Jika lebih kecil proses dilakukan kembali tetapi posisi akhir dianggap
+sama dengan posisi tengah 1
+4.Jika lebih besar proses dilakukan kembali tetapi posisi awal dianggap
+sama dengan posisi tengah 1
+5.Demikian seterusnya sampai data tengah sama dengan yang dicari
